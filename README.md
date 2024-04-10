@@ -16,8 +16,3 @@ Il faut **éxécuter le fichier JeuDominos/DominoTerminal pour lancer le jeu Dom
 
 Une fois sur l'interface d'une partie, il est possible de la sauvegarder en appuyant sur le bouton "save". Clore la fenêtre en appuyant sur la croix noire le fait par défaut. Il sera ensuite possible de recharger
 cette partie en la selectionnant depuis le menu déroulant du menu.
-
-# Dépôt en ligne
-
-Le dépôt utilisé pour le projet est disponible à cette adresse: https://gaufre.informatique.univ-paris-diderot.fr/poux/projet-de-pooig
-

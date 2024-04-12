@@ -14,11 +14,6 @@ Pour lancer directement une partie Carcassonne, une partie Dominos ou une partie
 launchRunningGame() de Launcher.java en leur passant les arguments nécéssaires (nom de la partie et liste de joueurs si la partie est nouvelle). Une préparation à ces appels est donnée en commentaires dans la
 fonction main de Launcher.java.
 
-Il faut éxécuter la commande pour lancer le jeu Dominos sur le terminal :
-```
-javac JeuDominos/DominoTerminal.java
-java JeuDominos/DominoTerminal
-```
 
 # Utilisation du jeu
 
